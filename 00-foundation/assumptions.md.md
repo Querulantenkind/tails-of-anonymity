@@ -1,0 +1,1 @@
+What this repo assumes you have (YubiKey, air-gapped machine or TailsOS instance, Linux CLI competency)
